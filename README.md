@@ -1,3 +1,3 @@
 # ReactNativeNavigation
 
-## NavigationSeries
+## Navigation Series
